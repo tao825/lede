@@ -9,9 +9,9 @@
 
 name: 原生插件添加2020.03.21
 
-on:
-  push:
-    branches: 
+#on:
+  #push:
+    #branches: 
       - master
   # schedule:
   #   - cron: 0 20 * * *
